@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/bthiago09/fdb1ce2e0d1ae17bf7d5c7fe9d4c60c6/raw/da12acc2660bfbf4e7e730770e1dc4906b0c7dac/githubcard.svg"/>
+<h1 align="left">Hello Dev, I'm Thiago Barbosa ;)</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bthiago09&color=lightgrey" alt="Profile views" /> </p>
 
-<!--
-**bthiago09/bthiago09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 Junior Web Developer & Student looking for opportunities
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying Web Development and 3D modeling in Blender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 👨‍💻 More at [thiagobarbosa.dev](https://thiagobarbosa.dev) -->
+
+<br><br><br><br><br><br><br><br><br>
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/bthiago09/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-bthiago09-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
