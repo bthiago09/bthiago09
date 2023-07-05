@@ -2,7 +2,7 @@
 <h1 align="left">Hello Dev, I'm Thiago Barbosa ;)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bthiago09&color=lightgrey" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer & Student looking for opportunities
+- 🔥 Web Developer & Student looking for opportunities
 
 - 🔭 I’m currently studying Web Development and 3D modeling in Blender
 
